@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Till</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Beginner Developer Exploring Web & Cloud Technologies</h3>
 
 - 🌱 I’m currently learning **React,HTML,Css,JVS,AWS Cloud Practitioner Essentials**
 
