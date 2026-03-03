@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Till</h1>
 <h3 align="center">Beginner Developer Exploring Web & Cloud Technologies</h3>
 
-- 🌱 I’m currently learning **React,HTML,Css,JVS,AWS Cloud Practitioner Essentials**
+- 🌱 I’m currently learning **React,HTML,Css,JVS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tilldo344?tab=repositories](https://github.com/Tilldo344?tab=repositories)
 
